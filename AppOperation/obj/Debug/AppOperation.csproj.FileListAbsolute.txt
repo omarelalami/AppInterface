@@ -1,0 +1,10 @@
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\bin\Debug\AppOperation.exe.config
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.csprojResolveAssemblyReference.cache
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.Form1.resources
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.Properties.Resources.resources
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.csproj.GenerateResource.Cache
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\bin\Debug\AppOperation.exe
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\bin\Debug\AppOperation.pdb
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.exe
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\obj\Debug\AppOperation.pdb
+c:\users\omar\documents\visual studio 2015\Projects\AppOperation\AppOperation\bin\Debug\Oracle.ManagedDataAccess.dll
